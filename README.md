@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi, I'm Thales Rocha <strong>BR</strong>
 <!--
 **thalesr/thalesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
