@@ -1,6 +1,5 @@
 ### Hi, I'm Thales Rocha
-![hr]
-
+<hr>
 A Brazilian Software Developer who loves gardening and all related to .NET world.
 
 <h3>Experienced with</h3>
