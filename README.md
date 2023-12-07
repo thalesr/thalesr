@@ -1,9 +1,7 @@
 ### Hi, I'm Thales Rocha
-<!--
-**thalesr/thalesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</hr>
+![hr]
 
-### A Brazilian Software Developer who loves gardening and all related to .NET world.
+A Brazilian Software Developer who loves gardening and all related to .NET world.
 
 <h3>Experienced with</h3>
 C#, ASP.NET, Blazor, API, Azure Functions, Azure IoT, Azure AI, Azure Cosmos, Azure Redis, Azure Resources (Resource Group, App Registrations, Web & API configuration, Key Vault, Integration with Azure AD and other things), Bootstrap, DevExpress, Visual Studio...
@@ -17,4 +15,4 @@ C#, ASP.NET, Blazor, API, Azure Functions, Azure IoT, Azure AI, Azure Cosmos, Az
 </ul>
 
 <h3>Current learning:</h3>
-I have been studing for AZ-204: Azure Developer Exam
+I have been studing for AZ-204: Azure Developer Exam.
