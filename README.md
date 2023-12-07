@@ -3,7 +3,7 @@
 A Brazilian Software Developer who loves gardening and all related to .NET world.
 
 <h3>Experienced with</h3>
-C#, ASP.NET, Blazor, API, Azure Functions, Azure IoT, Azure AI, Azure Cosmos, Azure Redis, Azure Resources (Resource Group, App Registrations, Web & API configuration, Key Vault, Integration with Azure AD and other things), Bootstrap, DevExpress, Visual Studio...
+C#, ASP.NET, Blazor, API, Azure Functions, Azure IoT, Azure AI, Azure Cosmos, Azure Redis, Azure Resources (Resource Group, App Registrations, Web & API configuration, Key Vault, Integration with Azure AD...), Bootstrap, DevExpress, Visual Studio...
 
 <h3>Certifications:</h3>
 <ul>
